@@ -4,9 +4,5 @@ version: 1.0
 api-version: 1.20
 commands:
   spawnhdrag:
-    description: Spawn a Hypixel-style Ender Dragon
+    description: Spawns a Hypixel-style Ender Dragon in The End.
     usage: /spawnhdrag
-permissions:
-  hypixeldragon.spawn:
-    description: Allows spawning the custom dragon
-    default: op
